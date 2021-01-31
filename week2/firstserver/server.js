@@ -3,42 +3,42 @@ const app = express()
 
 const movies = [
     {
-        name: "Pirates of the Caribbean: Dead Man's Chest",
+        name: "DR. DOLITTLE",
         year: 2006
     },
     {
-        name: "Harry Potter and the Sorcerer's Stone",
-        year: 2001
+        name: "Friday",
+        year: 1991
     },
     {
-        name: "Rocky II",
-        year: 1979
+        name: "Save The Last Dance",
+        year: 2007
     },
     {   
-        name: "Back to the Future",
-        year: 1985
+        name: "This Christmas",
+        year: 2014
     },
     {   
-        name: "Men in Black",
-        year: 1997
+        name: "Home Alone",
+        year: 1994
     }
 ]
 
 const actors = [
     {
-        name: "Johnny Deep",
+        name: "Eddie Murphy",
         age: 57
     },
     {
-        name: "Daniel Radcliffe",
+        name: "Jamie Foxx",
         age: 30
     },
     {
-        name: "Sylvester Stallone",
+        name: "Denzel Washington",
         age: 73
     },
     {   
-        name: "Michael J. Fox",
+        name: "Samuel L. Jackson",
         age: 59
     },
     {   
@@ -49,23 +49,23 @@ const actors = [
 
 const actresses = [
     {
-        name: "Keira Knightley",
+        name: "Cicely Tyson",
         age: 35
     },
     {
-        name: "Emma Watson",
+        name: "Taraji P Henson",
         age: 30
     },
     {
-        name: "Talia Shire",
+        name: "Sanaa Lathan",
         age: 74
     },
     {   
-        name: "Lea Thompson",
+        name: "Jada Pinkett Smith",
         age: 59
     },
     {   
-        name: "Linda Fiorentino",
+        name: "Angela Bassett",
         age: 60
     }
 ]
