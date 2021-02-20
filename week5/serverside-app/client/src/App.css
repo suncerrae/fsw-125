@@ -1,0 +1,13 @@
+html {
+    background-image: url("https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/h/o/w/how-bounty-hunter-professions-guide-red-dead-online-f080c.PNG");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.title {
+    color: black;
+    font-size: 60px;
+}
